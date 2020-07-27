@@ -1,0 +1,1000 @@
+CYP3A5	52	pegloticase	UNCHANGED	true	true
+PROC	60	allopurinol	DETERIORATED	true	true
+NUDT15	2	rasburicase	IMPROVED	false	true
+CES1	41	hydroxychloroquine	UNCHANGED	false	false
+UGT2B15	34	phenytoin	IMPROVED	true	false
+MC4R	66	ribavirin	UNCHANGED	true	true
+IFNL3	35	ivacaftor	IMPROVED	false	true
+NAT2	75	dapsone	IMPROVED	true	true
+NUDT15	59	spironolactone	DETERIORATED	true	false
+UGT2B15	71	caffeine	DETERIORATED	true	true
+CALU	91	gemcitabine	DETERIORATED	true	true
+NAGS	76	imipramine	IMPROVED	false	false
+LPA	75	dextromethorphan	UNCHANGED	false	true
+CYP2D6	46	pravastatin	DETERIORATED	false	true
+GBA	74	nicotine	DETERIORATED	false	true
+CHRNA3	52	methylene blue	IMPROVED	false	true
+ABCB1	22	flibanserin	UNCHANGED	false	false
+CYP2C8	8	fentanyl	UNCHANGED	false	false
+GSTP1	42	clozapine	IMPROVED	true	false
+SOD2	37	mesalazine	UNCHANGED	true	true
+ABCB1	98	succinylcholine	DETERIORATED	true	true
+CYP2A7P1	17	phenytoin	DETERIORATED	false	false
+HMGCR	6	glimepiride	IMPROVED	true	false
+VKORC1	85	duloxetine	IMPROVED	false	true
+CYP2B6	71	aspirin	UNCHANGED	false	true
+HLA-A	25	triamcinolone	DETERIORATED	true	false
+CACNA1S	42	omeprazole	DETERIORATED	false	true
+LTC4S	91	peginterferon alfa-2b	DETERIORATED	false	false
+CYP3A5	4	methimazole	UNCHANGED	true	false
+CFTR	78	duloxetine	IMPROVED	true	false
+CYP2C8	63	codeine	DETERIORATED	true	true
+CYB5R3	99	nortriptyline	IMPROVED	true	false
+ADD1	11	cetuximab	UNCHANGED	false	true
+EPHX1	51	omeprazole	IMPROVED	false	true
+ANKK1	15	thioguanine	IMPROVED	true	true
+TCF7L2	11	chloramphenicol	DETERIORATED	true	false
+DPYD	93	irinotecan	IMPROVED	false	false
+DRD2	81	sulfacetamide	UNCHANGED	false	false
+OPRM1	92	carglumic acid	DETERIORATED	false	true
+MT-RNR1	88	fluoxetine	IMPROVED	true	false
+CYP2A7P1	54	nitrofurantoin	IMPROVED	false	true
+SLCO1B1	26	belinostat	IMPROVED	true	true
+DYNC2H1	7	rituximab	IMPROVED	true	false
+KIF6	45	diazepam	IMPROVED	true	true
+CYB5R3	13	celecoxib	UNCHANGED	false	true
+TPMT	83	metformin	IMPROVED	false	false
+TNF	34	isoniazid	UNCHANGED	true	false
+FDPS	18	velaglucerase alfa	IMPROVED	false	true
+CYP4F2	62	cisplatin	DETERIORATED	true	false
+COL22A1	56	escitalopram	IMPROVED	true	false
+CCHCR1	86	allopurinol	IMPROVED	false	false
+ASS1	96	salbutamol	UNCHANGED	true	true
+SLC28A3	38	flibanserin	DETERIORATED	true	false
+MTRR	75	budesonide	UNCHANGED	true	false
+ABL2	32	etoposide	UNCHANGED	false	true
+ERCC1	35	dolutegravir	UNCHANGED	false	true
+ANKK1	97	mycophenolic acid	UNCHANGED	true	false
+ASS1	46	flibanserin	UNCHANGED	false	true
+ABCC4	59	hormonal contraceptives for systemic use	UNCHANGED	true	true
+FCGR3A	38	bupropion	UNCHANGED	true	false
+CYP2C19	8	morphine	UNCHANGED	false	false
+MT-RNR1	82	salbutamol	DETERIORATED	false	true
+GRIK4	12	anthracyclines and related substances	IMPROVED	false	false
+GRIK4	82	celecoxib	DETERIORATED	false	false
+SLCO1B1	42	tetrabenazine	UNCHANGED	true	true
+CYB5R4	96	amitriptyline	DETERIORATED	false	true
+DRD2	78	aminoglycoside antibacterials	IMPROVED	false	false
+HLA-B	45	terbinafine	UNCHANGED	true	false
+LTC4S	55	ribavirin	DETERIORATED	false	false
+G6PD	63	valproic acid	UNCHANGED	false	false
+COL22A1	23	captopril	IMPROVED	true	false
+UGT1A4	25	ciprofloxacin	DETERIORATED	false	false
+CBR3	88	rosuvastatin	DETERIORATED	false	true
+XPC	90	nevirapine	DETERIORATED	true	true
+GSTP1	40	thioguanine	UNCHANGED	true	false
+CBR3	90	methylene blue	IMPROVED	false	false
+MT-RNR1	82	lamotrigine	UNCHANGED	false	true
+CETP	71	hydroxychloroquine	UNCHANGED	false	false
+IFNL3	16	risperidone	IMPROVED	false	false
+SLCO1B1	63	azathioprine	DETERIORATED	false	true
+COMT	14	cyclophosphamide	IMPROVED	false	false
+NAT2	73	omeprazole	UNCHANGED	true	true
+FLOT1	46	carbimazole	DETERIORATED	false	true
+CYP4F2	89	carboplatin	IMPROVED	false	true
+HLA-C	84	methimazole	DETERIORATED	true	false
+VKORC1	6	belinostat	UNCHANGED	true	false
+NQO1	67	sirolimus	IMPROVED	false	true
+GNB3	68	imipramine	DETERIORATED	true	true
+CCHCR1	14	hmg coa reductase inhibitors	IMPROVED	false	false
+CETP	27	cevimeline	DETERIORATED	false	true
+VKORC1	14	pazopanib	DETERIORATED	false	true
+TPMT	76	acenocoumarol	DETERIORATED	false	false
+ACE	57	hydralazine	IMPROVED	true	false
+NAT2	6	galantamine	DETERIORATED	true	true
+PTGS1	39	dapsone	UNCHANGED	false	true
+VKORC1	19	morphine	UNCHANGED	false	true
+HLA-DRB1	71	cisplatin	DETERIORATED	true	true
+GBA	46	carboplatin	UNCHANGED	false	true
+HLA-DPB1	85	carboplatin	IMPROVED	false	false
+TANC1	35	cyclophosphamide	IMPROVED	true	true
+TMEM43	66	lapatinib	IMPROVED	true	false
+NAT2	68	carglumic acid	UNCHANGED	false	false
+ABCC4	66	phenytoin	UNCHANGED	false	true
+GBA	60	olanzapine	DETERIORATED	false	false
+FCGR3A	40	tacrolimus	IMPROVED	false	true
+RYR1	48	citalopram	IMPROVED	false	false
+PROC	33	pravastatin	UNCHANGED	false	true
+CETP	51	imipramine	IMPROVED	false	true
+HLA-A	52	metformin	UNCHANGED	true	true
+FCGR3A	13	tramadol	IMPROVED	true	true
+HLA-DPB1	31	propranolol	IMPROVED	true	false
+C11orf65	12	propylthiouracil	IMPROVED	true	false
+RYR1	78	propranolol	IMPROVED	true	false
+MTHFR	64	tetrabenazine	IMPROVED	false	true
+HLA-C	86	isoflurane	DETERIORATED	false	false
+HAS3	16	captopril	DETERIORATED	true	false
+HTR1A	40	pazopanib	IMPROVED	true	true
+IFNL4	96	atorvastatin	DETERIORATED	true	false
+POLG	47	anthracyclines and related substances	DETERIORATED	false	true
+G6PD	37	irinotecan	DETERIORATED	true	false
+ACE	66	anthracyclines and related substances	IMPROVED	true	true
+HLA-B	81	flibanserin	IMPROVED	true	true
+ABCB1	59	warfarin	IMPROVED	true	false
+GSTP1	16	hydrochlorothiazide	DETERIORATED	true	true
+GGCX	96	brivaracetam	IMPROVED	true	true
+KIF6	71	latanoprost	DETERIORATED	false	true
+C11orf65	29	propranolol	UNCHANGED	true	false
+PROS1	10	phenazopyridine	DETERIORATED	true	false
+DYNC2H1	7	naloxone	DETERIORATED	false	true
+SOD2	82	nevirapine	IMPROVED	false	true
+ITPA	59	cyclosporine	UNCHANGED	false	true
+CPS1	91	aminoglycoside antibacterials	DETERIORATED	true	false
+SEMA3C	7	carisoprodol	UNCHANGED	true	false
+CYP2C8	8	hydroxychloroquine	DETERIORATED	false	true
+HLA-DQA1	73	venlafaxine	IMPROVED	true	true
+CYP2A7P1	95	rosuvastatin	DETERIORATED	false	true
+CES1	58	Tumor necrosis factor alpha (TNF-alpha) inhibitors	IMPROVED	false	false
+CYB5R2	93	norfloxacin	IMPROVED	false	true
+TANC1	12	platinum	IMPROVED	false	false
+COL22A1	96	tramadol	UNCHANGED	false	true
+NEDD4L	44	aspirin	IMPROVED	true	true
+ABCC4	78	hmg coa reductase inhibitors	UNCHANGED	false	true
+NUDT15	14	carvedilol	IMPROVED	false	true
+GBA	48	interferon alfa-2b	IMPROVED	true	false
+FDPS	62	budesonide	IMPROVED	true	true
+CYP3A5	92	ivacaftor	UNCHANGED	true	false
+NAGS	59	nevirapine	UNCHANGED	false	true
+PROS1	67	rituximab	UNCHANGED	true	false
+PTGS1	80	tegafur	IMPROVED	true	true
+UGT2B15	39	donepezil	UNCHANGED	true	true
+APOE	98	erythromycin	DETERIORATED	true	true
+NAT2	85	atazanavir	IMPROVED	true	false
+CYP2A7P1	96	terbinafine	DETERIORATED	false	true
+C8orf34	63	hmg coa reductase inhibitors	UNCHANGED	true	true
+ACE	73	pazopanib	UNCHANGED	true	true
+CYB5R2	89	acenocoumarol	IMPROVED	true	true
+FLOT1	16	isosorbide dinitrate	DETERIORATED	true	true
+FCGR3A	88	leucovorin	UNCHANGED	true	false
+CHRNA3	75	dabrafenib	UNCHANGED	false	true
+CYP2D6	14	mefloquine	UNCHANGED	true	true
+ATIC	86	eliglustat	DETERIORATED	true	false
+GNB3	89	hormonal contraceptives for systemic use	IMPROVED	true	false
+NAGS	87	sildenafil	UNCHANGED	false	true
+MTHFR	94	amitriptyline	IMPROVED	false	true
+G6PD	55	hydralazine	IMPROVED	false	false
+HLA-A	15	sulfisoxazole	UNCHANGED	true	true
+NT5C2	27	glibenclamide	UNCHANGED	false	false
+CALU	5	Ace Inhibitors	UNCHANGED	true	false
+CRHR1	64	citalopram	UNCHANGED	true	true
+NAT1	56	ciprofloxacin	DETERIORATED	true	false
+HLA-DQA1	33	interferon alfa-2b	IMPROVED	false	false
+CYP3A5	49	glimepiride	IMPROVED	false	true
+TCF7L2	22	propafenone	DETERIORATED	false	false
+SLC6A4	41	tamsulosin	IMPROVED	false	true
+PROS1	24	efavirenz	DETERIORATED	true	true
+ATIC	62	propranolol	UNCHANGED	true	true
+CCHCR1	34	platinum	DETERIORATED	false	true
+XPC	10	mesalazine	IMPROVED	false	false
+MT-RNR1	38	clopidogrel	IMPROVED	false	false
+HLA-DRB1	72	imipramine	UNCHANGED	false	false
+ADRB2	66	salmeterol	DETERIORATED	true	false
+TXNRD2	49	carboplatin	IMPROVED	false	true
+HLA-C	67	sulfadiazine	UNCHANGED	true	true
+ATIC	61	tiotropium	IMPROVED	true	false
+CCHCR1	14	flurbiprofen	UNCHANGED	true	true
+CRHR1	78	propafenone	IMPROVED	false	false
+EGF	89	lapatinib	IMPROVED	true	false
+ABCB1	62	hydralazine	UNCHANGED	true	false
+CALU	3	methylene blue	UNCHANGED	true	true
+CFTR	52	hmg coa reductase inhibitors	IMPROVED	true	true
+CYP3A4	9	tenofovir	IMPROVED	true	true
+BCHE	86	sulfisoxazole	IMPROVED	false	false
+CCHCR1	50	mercaptopurine	DETERIORATED	true	false
+F5	25	Platinum compounds	IMPROVED	true	false
+UGT1A1	88	ciprofloxacin	IMPROVED	true	true
+HMGCR	72	sertraline	UNCHANGED	true	false
+SERPINC1	42	pantoprazole	UNCHANGED	false	false
+GNB3	90	leucovorin	DETERIORATED	true	true
+OPRM1	32	isoflurane	DETERIORATED	true	false
+ERCC1	67	methadone	UNCHANGED	false	true
+CYP2D6	90	naltrexone	UNCHANGED	false	true
+GBA	56	ribavirin	UNCHANGED	false	false
+CCHCR1	63	interferon alfa-2b	IMPROVED	false	true
+F5	31	desipramine	DETERIORATED	true	true
+ATIC	20	vortioxetine	DETERIORATED	true	true
+CRHR2	12	tolterodine	UNCHANGED	true	true
+POLG	69	oxazepam	DETERIORATED	false	true
+NEDD4L	99	naloxone	IMPROVED	false	false
+HTR2C	20	ivacaftor	IMPROVED	false	true
+CYP4F2	42	lapatinib	UNCHANGED	true	false
+ABCC4	68	phenprocoumon	UNCHANGED	true	false
+VDR	47	nilotinib	UNCHANGED	true	false
+ADORA2A	96	aminoglycoside antibacterials	IMPROVED	true	false
+OPRM1	1	pegloticase	IMPROVED	false	true
+GSTP1	14	risperidone	DETERIORATED	false	false
+ITPA	32	ethanol	DETERIORATED	true	true
+ABL2	62	alfentanil	IMPROVED	true	false
+TXNRD2	3	leucovorin	IMPROVED	true	true
+CYB5R2	17	triamcinolone	DETERIORATED	true	true
+CACNA1S	21	paroxetine	UNCHANGED	false	false
+ADORA2A	18	fluorouracil	IMPROVED	true	false
+HTR1A	58	olanzapine	UNCHANGED	true	true
+FLOT1	58	divalproex sodium	DETERIORATED	false	false
+SOD2	26	cerivastatin	UNCHANGED	false	false
+TYMS	76	norfloxacin	IMPROVED	false	false
+CRHR2	59	desflurane	DETERIORATED	true	false
+DYNC2H1	7	cyclosporine	UNCHANGED	true	false
+HTR1A	46	fluorouracil	UNCHANGED	false	true
+ABL2	15	warfarin	UNCHANGED	true	false
+PROS1	42	cetuximab	UNCHANGED	true	true
+TPMT	37	ciprofloxacin	UNCHANGED	false	true
+OTC	54	fluticasone/salmeterol	IMPROVED	false	false
+NUDT15	59	ataluren	DETERIORATED	false	true
+CYB5R2	17	methoxyflurane	UNCHANGED	false	false
+ITPA	15	oxazepam	IMPROVED	false	true
+COL22A1	26	mercaptopurine	UNCHANGED	true	false
+IFNL3	37	antidepressants	IMPROVED	false	true
+KCNIP4	27	mefloquine	DETERIORATED	true	true
+MC4R	54	nicotine	IMPROVED	true	true
+FCGR3A	38	propranolol	IMPROVED	false	true
+CYP2B6	82	atomoxetine	DETERIORATED	false	true
+PROC	3	radiotherapy	DETERIORATED	false	true
+CYB5R4	78	epirubicin	IMPROVED	true	false
+UGT1A4	84	pegloticase	DETERIORATED	false	true
+KCNIP4	50	capecitabine	UNCHANGED	false	true
+VKORC1	19	sunitinib	IMPROVED	false	true
+CYB5R2	26	lesinurad	DETERIORATED	false	true
+SLCO1B1	36	clomipramine	UNCHANGED	false	false
+HLA-DRB1	64	dextromethorphan	DETERIORATED	true	false
+TP53	48	aripiprazole	IMPROVED	true	true
+OTC	58	fluorouracil	IMPROVED	true	false
+HLA-DPB1	83	carbimazole	IMPROVED	true	false
+CYP2C19	65	haloperidol	IMPROVED	false	false
+HPRT1	90	carglumic acid	UNCHANGED	false	false
+GNB3	85	lesinurad	IMPROVED	true	true
+F5	72	perphenazine	UNCHANGED	true	false
+NUDT15	48	cyclosporine	IMPROVED	false	true
+SLC47A2	75	isosorbide dinitrate	DETERIORATED	true	true
+ATIC	15	clobazam	UNCHANGED	false	false
+TCF7L2	37	irinotecan	IMPROVED	false	true
+GSTM1	11	propylthiouracil	IMPROVED	true	true
+C11orf65	47	tamoxifen	UNCHANGED	false	false
+TMEM43	84	mirtazapine	UNCHANGED	true	true
+TMEM43	74	peginterferon alfa-2a	UNCHANGED	true	true
+HLA-DPB1	22	acenocoumarol	UNCHANGED	false	false
+GBA	41	clomipramine	IMPROVED	false	false
+IFNL4	4	omeprazole	UNCHANGED	false	true
+UMPS	95	cyclophosphamide	DETERIORATED	true	true
+HTR2A	82	midazolam	IMPROVED	true	false
+HLA-A	73	salmeterol	DETERIORATED	false	false
+CYB5R2	61	terbinafine	DETERIORATED	false	false
+SLCO1B1	25	hydroxychloroquine	UNCHANGED	false	false
+OTC	29	azathioprine	IMPROVED	false	false
+CFTR	70	tenofovir	DETERIORATED	true	false
+CPS1	63	tamsulosin	IMPROVED	true	true
+APOE	10	fluoxetine	DETERIORATED	false	false
+TANC1	3	captopril	IMPROVED	false	false
+TCF7L2	67	digoxin	DETERIORATED	true	false
+ASL	33	ataluren	UNCHANGED	true	true
+CFTR	30	clomipramine	UNCHANGED	false	false
+F5	10	nilotinib	IMPROVED	true	true
+CYP2C19	95	paroxetine	UNCHANGED	true	true
+ABCC4	10	tamoxifen	UNCHANGED	true	true
+CRHR1	48	tenofovir	UNCHANGED	false	false
+CYP2C9	59	triamcinolone	DETERIORATED	true	true
+ABCB1	90	mesalazine	IMPROVED	true	true
+PTGS1	7	ondansetron	UNCHANGED	false	true
+TCF7L2	18	antipsychotics	IMPROVED	true	true
+EGF	22	thioridazine	IMPROVED	true	true
+CHRNA3	29	voriconazole	UNCHANGED	true	false
+TMEM43	79	celecoxib	UNCHANGED	true	true
+TMEM43	76	Tumor necrosis factor alpha (TNF-alpha) inhibitors	DETERIORATED	true	false
+FKBP5	35	rosuvastatin	IMPROVED	false	true
+GSTP1	46	tiotropium	UNCHANGED	false	true
+G6PD	46	dimercaprol	IMPROVED	false	false
+MC4R	35	warfarin	DETERIORATED	false	true
+FDPS	4	phenprocoumon	UNCHANGED	false	false
+ABL2	20	clopidogrel	IMPROVED	true	true
+PTGFR	53	pegloticase	IMPROVED	false	true
+SCN1A	43	escitalopram	IMPROVED	true	true
+COL22A1	98	naloxone	UNCHANGED	true	true
+NAT1	83	divalproex sodium	UNCHANGED	true	true
+FLOT1	77	peginterferon alfa-2b	IMPROVED	false	true
+FDPS	75	doxepin	IMPROVED	true	true
+GNB3	56	flibanserin	UNCHANGED	true	false
+ADD1	67	oxazepam	DETERIORATED	true	false
+CFTR	10	dimercaprol	DETERIORATED	true	false
+NAGS	49	carbamazepine	UNCHANGED	true	true
+COQ2	41	rasburicase	IMPROVED	false	true
+XRCC1	37	propranolol	UNCHANGED	false	true
+CYP2C8	38	isoniazid	IMPROVED	true	true
+CYP4F2	38	pegloticase	IMPROVED	false	false
+RYR1	96	erythromycin	IMPROVED	false	false
+POLG	24	duloxetine	UNCHANGED	false	true
+YEATS4	43	dabrafenib	UNCHANGED	true	false
+SCN1A	68	vortioxetine	DETERIORATED	false	true
+FKBP5	68	midazolam	IMPROVED	false	true
+CYB5R4	55	glibenclamide	UNCHANGED	true	true
+ASL	72	glipizide	UNCHANGED	false	false
+OPRM1	52	hydrochlorothiazide	UNCHANGED	true	false
+SEMA3C	72	dolasetron	UNCHANGED	false	false
+F5	33	carisoprodol	DETERIORATED	false	true
+KIF6	83	triamcinolone	DETERIORATED	false	true
+OPRM1	31	clobazam	DETERIORATED	false	true
+ERCC1	38	omeprazole	IMPROVED	true	false
+COMT	18	nalidixic acid	IMPROVED	true	true
+CACNA1S	32	phenytoin	IMPROVED	false	false
+GP1BA	49	sulfadiazine	DETERIORATED	true	true
+NEDD4L	16	platinum	UNCHANGED	false	false
+UGT1A4	23	sulfacetamide	IMPROVED	true	true
+FKBP5	84	tropisetron	DETERIORATED	true	true
+MTRR	88	sevoflurane	DETERIORATED	false	false
+NEDD4L	8	quinidine	IMPROVED	false	true
+HTR1A	80	lapatinib	IMPROVED	true	true
+CRHR1	9	peginterferon alfa-2a	IMPROVED	true	false
+GBA	23	glimepiride	DETERIORATED	false	false
+IFNL4	46	methazolamide	IMPROVED	false	true
+CHRNA3	84	capecitabine	IMPROVED	false	true
+GSTP1	90	sulfisoxazole	DETERIORATED	true	false
+LTC4S	96	fentanyl	DETERIORATED	true	false
+HTR2C	97	iloperidone	DETERIORATED	false	true
+IFNL3	39	haloperidol	DETERIORATED	false	true
+RYR1	48	phenytoin	IMPROVED	false	false
+XPC	49	hmg coa reductase inhibitors	DETERIORATED	true	false
+MC4R	8	dexlansoprazole	DETERIORATED	false	false
+FDPS	79	dolasetron	DETERIORATED	false	true
+EGF	54	tetrabenazine	DETERIORATED	true	true
+GGCX	1	thioguanine	DETERIORATED	false	false
+MC4R	74	eliglustat	UNCHANGED	false	true
+TNF	26	desipramine	UNCHANGED	true	false
+CYB5R3	79	duloxetine	IMPROVED	false	false
+CACNA1S	26	hydroxychloroquine	IMPROVED	true	false
+VDR	35	fesoterodine	UNCHANGED	false	true
+GSTP1	13	interferon alfa-2b	DETERIORATED	false	false
+EPHX1	88	enflurane	UNCHANGED	true	true
+PTGS1	16	erythromycin	DETERIORATED	false	true
+CBR3	68	eliglustat	UNCHANGED	true	true
+CYB5R4	16	ondansetron	DETERIORATED	false	false
+TPMT	34	zuclopenthixol	IMPROVED	true	false
+ABL2	29	erythromycin	UNCHANGED	true	true
+ADRB2	83	sunitinib	UNCHANGED	true	false
+GRIK4	51	sertraline	DETERIORATED	true	false
+ERCC1	98	atorvastatin	IMPROVED	true	true
+FLOT1	55	azathioprine	UNCHANGED	false	true
+VDR	94	cyclophosphamide	UNCHANGED	true	false
+CYP3A5	90	antidepressants	IMPROVED	false	true
+ITPA	78	anthracyclines and related substances	DETERIORATED	true	false
+HLA-DQA1	31	leucovorin	UNCHANGED	false	true
+CALU	85	eliglustat	IMPROVED	false	false
+SERPINC1	33	dimercaprol	UNCHANGED	true	true
+ACE	22	phenprocoumon	IMPROVED	false	true
+NQO1	57	nicotine	DETERIORATED	false	true
+ACE	70	sulfacetamide	IMPROVED	true	true
+FDPS	63	fentanyl	DETERIORATED	true	false
+COL22A1	30	voriconazole	IMPROVED	false	true
+CFTR	3	nicotine	UNCHANGED	true	false
+ACE	92	nitrofurantoin	IMPROVED	true	true
+DRD2	46	spironolactone	UNCHANGED	false	true
+SLCO1B1	16	warfarin	UNCHANGED	false	true
+FLOT1	50	tramadol	DETERIORATED	false	false
+TCF7L2	48	tamoxifen	DETERIORATED	true	false
+NAT1	95	mafenide	DETERIORATED	true	false
+TNF	77	warfarin	UNCHANGED	true	true
+CYB5R2	4	cevimeline	DETERIORATED	true	false
+POLG	37	fluticasone/salmeterol	DETERIORATED	false	true
+FKBP5	41	methoxyflurane	IMPROVED	true	false
+CBR3	77	fluvoxamine	DETERIORATED	true	true
+TYMS	62	flibanserin	DETERIORATED	true	false
+NAGS	87	metformin	DETERIORATED	false	true
+XPC	83	glipizide	DETERIORATED	false	false
+GBA	81	sulfasalazine	UNCHANGED	false	true
+HLA-B	2	mafenide	UNCHANGED	false	false
+KIF6	35	sertraline	UNCHANGED	false	false
+CYB5R2	2	isoniazid	IMPROVED	true	true
+EPHX1	61	fluticasone propionate	DETERIORATED	false	true
+MTRR	51	spironolactone	IMPROVED	true	false
+TP53	12	latanoprost	DETERIORATED	true	false
+ABCC4	22	hydralazine	UNCHANGED	false	true
+MTRR	1	carglumic acid	DETERIORATED	false	true
+C11orf65	39	alfentanil	IMPROVED	false	true
+SLC6A4	94	brivaracetam	UNCHANGED	false	true
+ADD1	17	methylphenidate	IMPROVED	true	false
+FKBP5	47	escitalopram	UNCHANGED	true	true
+TYMS	55	oxcarbazepine	DETERIORATED	false	false
+ADD1	91	carbimazole	UNCHANGED	true	true
+CYB5R3	6	glimepiride	IMPROVED	false	false
+SLC47A2	6	tegafur	DETERIORATED	true	true
+GGCX	97	ondansetron	DETERIORATED	false	false
+ABCB1	10	metoprolol	UNCHANGED	true	true
+PROC	21	levofloxacin	IMPROVED	true	true
+CES1	71	lamotrigine	IMPROVED	false	true
+NEDD4L	97	cetuximab	UNCHANGED	false	true
+GNB3	49	fluticasone/salmeterol	IMPROVED	true	false
+LPA	97	flibanserin	DETERIORATED	false	false
+F5	7	simvastatin	UNCHANGED	false	true
+NEDD4L	21	quinidine	UNCHANGED	false	true
+GRIK4	24	imipramine	UNCHANGED	true	false
+ERCC1	87	Platinum compounds	DETERIORATED	false	true
+ABL2	43	spironolactone	UNCHANGED	false	true
+CYP2C9	52	rasburicase	IMPROVED	true	true
+OTC	81	celecoxib	DETERIORATED	false	false
+IFNL3	6	lidocaine	IMPROVED	true	false
+CYB5R1	20	pegloticase	IMPROVED	false	true
+XRCC1	67	mesalazine	UNCHANGED	true	true
+CYP2D6	30	pantoprazole	DETERIORATED	false	false
+FCGR3A	65	Alkylating Agents	IMPROVED	true	true
+GSTM1	94	Tumor necrosis factor alpha (TNF-alpha) inhibitors	IMPROVED	false	false
+F5	76	propafenone	DETERIORATED	false	false
+NT5C2	76	Tumor necrosis factor alpha (TNF-alpha) inhibitors	DETERIORATED	true	true
+EPHX1	94	carbamazepine	UNCHANGED	false	true
+HAS3	84	diclofenac	DETERIORATED	true	true
+PRKCA	64	Platinum compounds	DETERIORATED	true	false
+ABCC4	80	dolutegravir	IMPROVED	true	false
+POLG	13	Ace Inhibitors	IMPROVED	true	false
+BCHE	89	latanoprost	IMPROVED	true	true
+LDLR	66	oxaliplatin	DETERIORATED	true	false
+IFNL3	13	halothane	DETERIORATED	false	true
+UGT1A1	91	methadone	IMPROVED	true	false
+HPRT1	90	pazopanib	UNCHANGED	false	true
+NAGS	34	ribavirin	IMPROVED	true	false
+BCHE	47	nilotinib	IMPROVED	false	true
+ASS1	44	dapsone	UNCHANGED	false	true
+PTGS1	45	antipsychotics	DETERIORATED	false	false
+GNB3	2	hydroxychloroquine	IMPROVED	false	true
+PTGFR	48	sulfacetamide	IMPROVED	false	true
+HTR2C	9	clobazam	IMPROVED	false	false
+NAT2	22	fluorouracil	DETERIORATED	true	false
+CRHR2	13	lansoprazole	IMPROVED	true	false
+TPMT	57	mirtazapine	IMPROVED	true	true
+GSTM1	96	alfentanil	DETERIORATED	true	false
+DRD2	14	donepezil	DETERIORATED	false	true
+ADD1	31	carvedilol	DETERIORATED	true	false
+OPRM1	22	lesinurad	UNCHANGED	true	true
+CYB5R2	66	clomipramine	IMPROVED	false	false
+MTHFR	57	escitalopram	IMPROVED	true	false
+COQ2	60	cyclophosphamide	DETERIORATED	false	true
+ANKK1	2	budesonide	UNCHANGED	true	false
+ABCC4	17	hydrochlorothiazide	UNCHANGED	false	false
+ERCC1	89	propylthiouracil	UNCHANGED	true	true
+UGT2B15	45	Alkylating Agents	UNCHANGED	false	true
+UGT2B15	46	tenofovir	UNCHANGED	false	false
+CYB5R2	14	diazepam	IMPROVED	false	true
+CACNA1S	6	etoposide	UNCHANGED	true	false
+UGT1A1	48	captopril	DETERIORATED	false	false
+CYB5R3	45	carboplatin	UNCHANGED	true	false
+MTRR	69	clobazam	UNCHANGED	true	true
+MTHFR	94	lesinurad	DETERIORATED	true	false
+UGT1A4	32	escitalopram	DETERIORATED	true	false
+CALU	49	ataluren	IMPROVED	false	false
+HPRT1	73	budesonide	DETERIORATED	true	true
+SLC28A3	53	chloramphenicol	UNCHANGED	false	false
+SLC28A3	3	etoposide	IMPROVED	false	true
+UGT1A1	41	esomeprazole	IMPROVED	true	false
+CALU	46	simvastatin	IMPROVED	false	false
+DRD2	65	tetrabenazine	IMPROVED	true	false
+MTRR	44	atomoxetine	UNCHANGED	true	false
+TMEM43	71	latanoprost	UNCHANGED	false	true
+HLA-DPB1	73	perphenazine	UNCHANGED	true	true
+CYP4F2	68	zuclopenthixol	IMPROVED	false	false
+CYP2C8	45	rasburicase	DETERIORATED	true	false
+LPA	47	pimozide	DETERIORATED	false	false
+SLCO1B1	9	isoflurane	DETERIORATED	false	false
+CETP	43	rosiglitazone	UNCHANGED	false	false
+GNB3	33	vortioxetine	UNCHANGED	true	true
+IFNL3	60	midazolam	DETERIORATED	true	false
+POLG	89	chlorpropamide	IMPROVED	false	true
+OTC	98	perphenazine	DETERIORATED	true	false
+NUDT15	91	hydralazine	IMPROVED	true	true
+FKBP5	15	triamcinolone	UNCHANGED	false	true
+CALU	50	metoclopramide	DETERIORATED	false	false
+NEDD4L	73	fluvoxamine	IMPROVED	true	true
+MTHFR	27	flecainide	IMPROVED	true	false
+YEATS4	57	cerivastatin	UNCHANGED	false	false
+LTC4S	56	clozapine	UNCHANGED	true	true
+CYB5R4	15	methadone	DETERIORATED	false	false
+LTC4S	24	doxepin	IMPROVED	true	false
+FDPS	90	propylthiouracil	IMPROVED	true	false
+HTR2C	1	methylphenidate	UNCHANGED	true	true
+CYP2C9	63	cyclosporine	IMPROVED	false	true
+UGT1A4	59	lapatinib	IMPROVED	false	false
+CBR3	86	esomeprazole	DETERIORATED	true	false
+TXNRD2	52	tolterodine	UNCHANGED	false	false
+BCHE	13	hormonal contraceptives for systemic use	IMPROVED	false	false
+CYB5R3	48	lapatinib	IMPROVED	true	true
+DYNC2H1	7	palonosetron	IMPROVED	true	true
+PTGFR	72	azathioprine	UNCHANGED	false	false
+ABCC4	55	hydralazine	IMPROVED	false	true
+COMT	66	galantamine	DETERIORATED	false	true
+HLA-A	41	timolol	DETERIORATED	false	false
+CYP4F2	56	citalopram	UNCHANGED	true	true
+TPMT	39	tiotropium	DETERIORATED	false	true
+ASS1	21	thioridazine	IMPROVED	false	false
+CPS1	33	olanzapine	UNCHANGED	false	false
+CYB5R3	89	methimazole	UNCHANGED	false	false
+ABCB1	99	isoniazid	IMPROVED	false	false
+CRHR2	22	alfentanil	UNCHANGED	true	true
+UGT1A1	33	citalopram	DETERIORATED	true	true
+ADD1	1	leucovorin	UNCHANGED	false	true
+ANKK1	51	salbutamol	IMPROVED	true	true
+NAT1	26	naloxone	IMPROVED	false	false
+CES1	39	rituximab	DETERIORATED	false	true
+PRKCA	8	budesonide	IMPROVED	true	true
+C11orf65	86	galantamine	DETERIORATED	true	false
+COL22A1	86	Alkylating Agents	UNCHANGED	true	false
+SCN1A	18	leucovorin	UNCHANGED	true	true
+CHRNA3	69	sulfadiazine	IMPROVED	true	false
+ABL2	96	rituximab	DETERIORATED	false	true
+BCHE	77	halothane	IMPROVED	false	false
+MC4R	46	Tumor necrosis factor alpha (TNF-alpha) inhibitors	DETERIORATED	true	true
+COL22A1	28	sertraline	DETERIORATED	true	true
+C11orf65	41	Alkylating Agents	UNCHANGED	true	false
+MT-RNR1	48	ciprofloxacin	IMPROVED	true	false
+UGT2B15	63	digoxin	UNCHANGED	false	true
+ATIC	92	chloramphenicol	UNCHANGED	true	true
+EGF	54	dolutegravir	UNCHANGED	false	true
+GBA	4	tolterodine	DETERIORATED	false	false
+ABCC4	97	vitamin c	UNCHANGED	false	false
+ASL	37	acenocoumarol	DETERIORATED	true	true
+UGT1A1	38	peginterferon alfa-2b	IMPROVED	false	false
+TP53	50	acenocoumarol	DETERIORATED	false	true
+OTC	94	pegloticase	UNCHANGED	false	false
+G6PD	8	oxycodone	UNCHANGED	false	true
+MT-RNR1	88	enflurane	UNCHANGED	false	true
+CYB5R2	29	paroxetine	UNCHANGED	false	true
+ASS1	33	antipsychotics	IMPROVED	true	false
+TPMT	21	abacavir	UNCHANGED	true	true
+GGCX	63	tenofovir	UNCHANGED	false	false
+SLCO1B1	71	trimipramine	UNCHANGED	true	true
+CCHCR1	6	lesinurad	IMPROVED	true	false
+XPC	75	pimozide	DETERIORATED	false	true
+SCN1A	67	etoposide	IMPROVED	false	true
+TXNRD2	91	fentanyl	UNCHANGED	true	false
+SLC6A4	83	halothane	DETERIORATED	true	true
+OTC	20	Bisphosphonates	IMPROVED	true	false
+CYP3A4	86	propranolol	DETERIORATED	false	true
+TNF	9	aminoglycoside antibacterials	IMPROVED	false	false
+SLC6A4	37	nevirapine	IMPROVED	false	false
+ITPA	14	desipramine	UNCHANGED	false	false
+PRKCA	21	glimepiride	DETERIORATED	true	false
+TMEM43	37	mesalazine	IMPROVED	true	false
+CES1	76	Selective serotonin reuptake inhibitors	IMPROVED	false	false
+SLCO1B1	2	diazepam	UNCHANGED	true	true
+NAGS	75	allopurinol	DETERIORATED	true	true
+SCN1A	78	metoclopramide	DETERIORATED	true	false
+ATIC	34	galantamine	DETERIORATED	false	false
+LDLR	91	zuclopenthixol	UNCHANGED	true	true
+UGT1A4	60	lesinurad	IMPROVED	true	true
+CYP3A5	19	atazanavir	UNCHANGED	false	true
+GRIK4	72	cetuximab	UNCHANGED	true	true
+ABCB1	72	fluticasone/salmeterol	DETERIORATED	true	true
+CETP	3	methylphenidate	IMPROVED	true	false
+NAT1	96	mirtazapine	DETERIORATED	true	false
+UGT2B15	81	sulfonamides	DETERIORATED	true	false
+UGT1A1	94	trimipramine	IMPROVED	false	false
+LDLR	70	vitamin c	DETERIORATED	false	true
+GSTP1	10	clobazam	UNCHANGED	true	false
+TMEM43	11	abacavir	UNCHANGED	true	true
+POLG	27	fluorouracil	UNCHANGED	true	false
+BCHE	98	divalproex sodium	UNCHANGED	true	false
+TCF7L2	37	doxepin	UNCHANGED	true	false
+CYP2C8	19	enflurane	UNCHANGED	false	false
+ABCB1	74	nilotinib	DETERIORATED	true	false
+HAS3	87	nilotinib	UNCHANGED	true	false
+EPHX1	6	tacrolimus	DETERIORATED	false	true
+CRHR2	57	irinotecan	IMPROVED	true	true
+CPS1	3	norfloxacin	DETERIORATED	true	true
+TYMS	98	ribavirin	IMPROVED	false	true
+ABCG2	31	abacavir	UNCHANGED	false	true
+VKORC1	35	Ace Inhibitors	UNCHANGED	true	false
+CYP3A4	74	caffeine	UNCHANGED	true	true
+GP1BA	77	lesinurad	IMPROVED	true	true
+COMT	47	metoprolol	IMPROVED	false	true
+LTC4S	35	warfarin	DETERIORATED	false	false
+COMT	1	palonosetron	IMPROVED	true	false
+VKORC1	3	desipramine	IMPROVED	true	true
+PTGFR	22	atazanavir	IMPROVED	true	false
+IFNL3	32	caffeine	DETERIORATED	false	true
+NAT1	80	metoclopramide	IMPROVED	false	false
+GRIK4	61	fluorouracil	UNCHANGED	true	true
+UGT1A1	91	propranolol	DETERIORATED	false	true
+CPS1	51	velaglucerase alfa	DETERIORATED	true	false
+NEDD4L	81	propafenone	UNCHANGED	false	true
+PROC	29	flecainide	UNCHANGED	true	false
+FLOT1	44	isosorbide dinitrate	IMPROVED	false	true
+NUDT15	13	mirtazapine	UNCHANGED	true	true
+HLA-A	3	fluoxetine	DETERIORATED	false	true
+ITPA	88	metoprolol	UNCHANGED	false	false
+OPRM1	32	chlorpropamide	DETERIORATED	false	true
+PROC	51	captopril	UNCHANGED	true	true
+HTR2C	9	hmg coa reductase inhibitors	IMPROVED	true	false
+COQ2	96	iloperidone	UNCHANGED	true	false
+HLA-DPB1	90	modafinil	UNCHANGED	true	false
+EGF	66	norfloxacin	IMPROVED	true	false
+HLA-DRB1	97	brivaracetam	IMPROVED	false	true
+CYB5R2	51	olanzapine	UNCHANGED	true	false
+SOD2	48	naloxone	DETERIORATED	false	false
+POLG	37	lamotrigine	DETERIORATED	false	false
+ASL	42	timolol	DETERIORATED	false	false
+MTRR	87	thioridazine	IMPROVED	true	false
+ACE	18	propafenone	DETERIORATED	true	true
+NEDD4L	50	escitalopram	DETERIORATED	true	true
+ANKK1	87	methotrexate	IMPROVED	false	false
+CRHR1	58	hmg coa reductase inhibitors	DETERIORATED	false	false
+FKBP5	82	dexlansoprazole	UNCHANGED	false	false
+HLA-DQA1	16	isosorbide dinitrate	DETERIORATED	false	true
+XRCC1	44	nevirapine	UNCHANGED	false	true
+DYNC2H1	63	allopurinol	IMPROVED	true	false
+FKBP5	75	rosuvastatin	DETERIORATED	true	true
+FLOT1	54	abacavir	UNCHANGED	false	true
+GGCX	11	interferon alfa-2b	UNCHANGED	false	true
+TANC1	86	carbimazole	UNCHANGED	false	false
+NEDD4L	92	halothane	IMPROVED	true	false
+HLA-DPB1	49	peginterferon alfa-2a	IMPROVED	true	true
+CYB5R3	19	eliglustat	DETERIORATED	true	false
+ANKK1	57	aminoglycoside antibacterials	DETERIORATED	false	false
+HMGCR	17	digoxin	UNCHANGED	true	true
+GSTP1	2	latanoprost	UNCHANGED	false	false
+VDR	43	levofloxacin	IMPROVED	false	false
+GP1BA	64	brivaracetam	UNCHANGED	true	true
+PTGS1	62	nilotinib	IMPROVED	false	false
+CYP2C9	84	probenecid	IMPROVED	true	false
+SLC47A2	1	mafenide	UNCHANGED	true	false
+GSTP1	36	salbutamol	DETERIORATED	true	false
+LDLR	39	darifenacin	DETERIORATED	true	false
+ABCG2	67	enflurane	UNCHANGED	true	false
+NEDD4L	25	tamoxifen	DETERIORATED	false	false
+SEMA3C	52	carisoprodol	IMPROVED	true	false
+HLA-DPB1	16	imipramine	UNCHANGED	false	false
+ADORA2A	41	leucovorin	DETERIORATED	true	false
+UGT1A1	38	peginterferon alfa-2b	IMPROVED	false	false
+CACNA1S	83	cyclosporine	IMPROVED	true	false
+CYP3A4	24	clozapine	IMPROVED	true	true
+CHRNA3	19	captopril	DETERIORATED	true	true
+HTR1A	8	nevirapine	UNCHANGED	false	true
+ANKK1	17	omeprazole	UNCHANGED	false	false
+ASL	9	flibanserin	DETERIORATED	true	false
+XRCC1	58	brexpiprazole	IMPROVED	false	false
+GRIK4	16	mafenide	UNCHANGED	true	false
+HAS3	70	eliglustat	UNCHANGED	true	true
+TNF	26	acenocoumarol	IMPROVED	true	false
+F5	97	peginterferon alfa-2b	IMPROVED	false	false
+SLC28A3	83	lamotrigine	DETERIORATED	true	false
+TANC1	64	tolterodine	IMPROVED	false	true
+HMGCR	69	hydrochlorothiazide	IMPROVED	false	true
+TP53	81	efavirenz	DETERIORATED	false	true
+VDR	56	atazanavir	UNCHANGED	false	false
+CYP3A4	93	succinylcholine	DETERIORATED	false	true
+CYP2B6	8	aminoglycoside antibacterials	IMPROVED	false	false
+CYB5R3	99	fesoterodine	DETERIORATED	false	false
+CYP2A7P1	59	methadone	DETERIORATED	true	false
+DPYD	23	metformin	IMPROVED	false	false
+HLA-DQA1	40	vitamin c	DETERIORATED	false	true
+NUDT15	44	aminoglycoside antibacterials	UNCHANGED	true	false
+ABL2	13	Platinum compounds	UNCHANGED	true	false
+COL22A1	82	primaquine	DETERIORATED	false	false
+PRKCA	66	acenocoumarol	DETERIORATED	true	false
+HTR2A	63	nitrofurantoin	DETERIORATED	false	true
+GSTM1	16	isoniazid	UNCHANGED	false	true
+EPHX1	12	venlafaxine	DETERIORATED	false	false
+ATIC	99	phenytoin	DETERIORATED	false	false
+LDLR	56	phenprocoumon	DETERIORATED	false	false
+HAS3	90	abacavir	DETERIORATED	false	false
+ABL2	56	morphine	UNCHANGED	false	true
+DRD2	62	sulfadiazine	IMPROVED	false	false
+C11orf65	86	paroxetine	IMPROVED	false	true
+OTC	1	pravastatin	UNCHANGED	false	true
+XRCC1	69	citalopram	IMPROVED	true	true
+HLA-B	27	vitamin c	DETERIORATED	false	false
+MTHFR	44	sertraline	DETERIORATED	false	false
+NQO1	5	fluticasone propionate	DETERIORATED	false	true
+ITPA	14	nitrofurantoin	IMPROVED	false	true
+OTC	37	quinine	UNCHANGED	true	true
+CALU	8	epirubicin	DETERIORATED	true	true
+SLC28A3	84	furosemide	IMPROVED	true	false
+XPC	28	carbimazole	IMPROVED	false	false
+PTGFR	59	ethanol	UNCHANGED	true	false
+SLC28A3	88	nortriptyline	DETERIORATED	false	false
+ASS1	15	velaglucerase alfa	UNCHANGED	false	true
+CYP2C9	25	methimazole	UNCHANGED	false	false
+GRIK4	33	atorvastatin	DETERIORATED	false	false
+VKORC1	78	glibenclamide	UNCHANGED	false	false
+COL22A1	16	carvedilol	IMPROVED	true	true
+NUDT15	29	fluvoxamine	IMPROVED	false	true
+PTGS1	58	sulfamethoxazole / trimethoprim	IMPROVED	true	true
+BCHE	49	citalopram	UNCHANGED	true	false
+COL22A1	98	fentanyl	IMPROVED	true	true
+ITPA	11	phenprocoumon	IMPROVED	true	false
+ITPA	42	peginterferon alfa-2b	UNCHANGED	true	false
+CYP2D6	61	Ace Inhibitors	IMPROVED	false	true
+VKORC1	41	metoclopramide	IMPROVED	false	true
+CYP2B6	22	platinum	UNCHANGED	false	true
+FKBP5	43	Bisphosphonates	UNCHANGED	true	true
+MT-RNR1	1	hydrochlorothiazide	DETERIORATED	true	true
+SERPINC1	63	pantoprazole	UNCHANGED	true	true
+TANC1	30	sevoflurane	DETERIORATED	false	false
+CHRNA3	27	nalidixic acid	DETERIORATED	false	false
+POLG	48	belinostat	IMPROVED	false	false
+ADD1	33	bupropion	DETERIORATED	false	false
+CRHR1	12	glibenclamide	IMPROVED	true	true
+FCGR3A	46	aripiprazole	DETERIORATED	true	false
+CRHR1	89	sunitinib	DETERIORATED	true	true
+CHRNA3	40	halothane	IMPROVED	false	true
+SOD2	92	midazolam	UNCHANGED	false	true
+EPHX1	75	tolterodine	UNCHANGED	true	true
+CHRNA3	83	sevoflurane	UNCHANGED	false	false
+CYB5R3	61	diclofenac	DETERIORATED	true	true
+COMT	95	tetrabenazine	UNCHANGED	true	false
+NAGS	72	allopurinol	UNCHANGED	false	false
+SEMA3C	67	carbamazepine	IMPROVED	true	true
+PROS1	79	propylthiouracil	UNCHANGED	true	true
+GGCX	25	desflurane	IMPROVED	false	false
+CETP	42	oxycodone	UNCHANGED	true	false
+GBA	99	imipramine	UNCHANGED	true	true
+APOE	2	oxaliplatin	UNCHANGED	true	false
+CYP2C8	89	antipsychotics	UNCHANGED	true	false
+SCN1A	74	atazanavir	IMPROVED	true	false
+CHRNA3	89	timolol	UNCHANGED	false	true
+GRIK4	67	fluvoxamine	UNCHANGED	true	true
+UGT2B15	44	celecoxib	DETERIORATED	false	false
+SLC6A4	51	sevoflurane	UNCHANGED	true	true
+IFNL3	56	oxazepam	UNCHANGED	true	true
+FKBP5	13	aripiprazole	IMPROVED	false	true
+UGT1A4	89	antipsychotics	DETERIORATED	false	true
+TANC1	17	sertraline	IMPROVED	true	false
+GGCX	95	tenofovir	DETERIORATED	true	true
+NEDD4L	64	hydralazine	IMPROVED	false	false
+CBR3	49	cevimeline	DETERIORATED	true	false
+SLC47A2	56	azathioprine	DETERIORATED	true	true
+LTC4S	20	tramadol	DETERIORATED	false	false
+IFNL4	57	flecainide	UNCHANGED	true	false
+LPA	21	enflurane	IMPROVED	true	true
+SLC28A3	25	fluvoxamine	DETERIORATED	false	false
+PRKCA	92	brivaracetam	UNCHANGED	true	false
+PTGS1	42	spironolactone	IMPROVED	false	false
+TCF7L2	60	cisplatin	UNCHANGED	false	false
+KCNIP4	26	dolutegravir	DETERIORATED	true	true
+ADORA2A	11	desipramine	DETERIORATED	true	true
+COMT	57	tetrabenazine	DETERIORATED	true	false
+TNF	58	ivacaftor	UNCHANGED	true	false
+GP1BA	62	cyclosporine	DETERIORATED	true	true
+FKBP5	13	hydralazine	UNCHANGED	false	false
+SOD2	26	cevimeline	UNCHANGED	true	false
+UGT1A4	38	modafinil	IMPROVED	false	true
+CYP2D6	19	etoposide	UNCHANGED	false	true
+G6PD	36	sodium nitrite	IMPROVED	false	true
+UGT1A4	56	nalidixic acid	UNCHANGED	true	false
+CYP3A4	47	chloramphenicol	DETERIORATED	false	false
+NEDD4L	85	sulfamethoxazole / trimethoprim	IMPROVED	true	true
+UGT2B15	5	aripiprazole	UNCHANGED	false	false
+CALU	82	fluorouracil	IMPROVED	false	true
+KIF6	21	probenecid	UNCHANGED	false	true
+GNB3	90	olanzapine	IMPROVED	true	true
+ASL	14	propafenone	DETERIORATED	false	true
+CYB5R2	3	sulfisoxazole	DETERIORATED	true	true
+PROC	12	dolasetron	UNCHANGED	true	false
+SLC47A2	23	diclofenac	DETERIORATED	true	false
+GP1BA	1	cerivastatin	DETERIORATED	false	false
+ACE	96	lansoprazole	UNCHANGED	true	false
+CRHR1	15	mefloquine	IMPROVED	false	true
+C8orf34	26	mercaptopurine	UNCHANGED	false	true
+FLOT1	92	fluvoxamine	IMPROVED	true	false
+ASS1	15	fluticasone propionate	IMPROVED	false	true
+HLA-DQA1	95	mafenide	IMPROVED	false	true
+YEATS4	63	Ace Inhibitors	UNCHANGED	false	false
+OPRM1	27	leucovorin	DETERIORATED	true	false
+ABCG2	56	dextromethorphan	IMPROVED	false	true
+ADRB2	76	sulfadiazine	DETERIORATED	false	false
+PTGFR	2	allopurinol	IMPROVED	true	false
+SLC28A3	9	rosuvastatin	IMPROVED	true	false
+CYB5R3	75	pegloticase	IMPROVED	false	true
+GSTM1	75	pimozide	DETERIORATED	true	true
+CYP3A5	57	Platinum compounds	IMPROVED	false	false
+CYP4F2	70	tolterodine	UNCHANGED	true	false
+IFNL4	47	dapsone	IMPROVED	true	true
+TXNRD2	26	divalproex sodium	UNCHANGED	true	false
+DYNC2H1	99	celecoxib	IMPROVED	false	false
+RYR1	97	divalproex sodium	UNCHANGED	true	true
+PROS1	84	peginterferon alfa-2a	UNCHANGED	false	false
+PTGS1	27	modafinil	IMPROVED	false	false
+EGF	27	sulfadiazine	UNCHANGED	true	true
+EGF	67	cetuximab	DETERIORATED	false	true
+SCN1A	42	desflurane	UNCHANGED	true	false
+HLA-DPB1	72	primaquine	UNCHANGED	true	true
+TYMS	70	captopril	IMPROVED	true	false
+SOD2	92	chlorpropamide	UNCHANGED	false	false
+CYP2C9	11	etoposide	DETERIORATED	false	true
+LPA	86	spironolactone	IMPROVED	true	true
+PRKCA	45	tramadol	DETERIORATED	true	false
+ERCC1	72	haloperidol	UNCHANGED	false	true
+CHRNA3	23	iloperidone	IMPROVED	false	false
+SLCO1B1	91	fluticasone/salmeterol	DETERIORATED	true	true
+HLA-B	89	mirtazapine	UNCHANGED	true	true
+APOE	80	flecainide	DETERIORATED	true	false
+VDR	20	efavirenz	DETERIORATED	true	false
+DPYD	56	alfentanil	DETERIORATED	false	false
+CHRNA3	63	tetrabenazine	UNCHANGED	false	true
+UGT1A1	3	peginterferon alfa-2b	UNCHANGED	false	true
+CYP3A4	26	voriconazole	DETERIORATED	true	true
+CYB5R1	41	atomoxetine	DETERIORATED	true	false
+KCNIP4	70	methylene blue	UNCHANGED	false	true
+ADD1	32	eliglustat	IMPROVED	true	true
+COL22A1	27	thioguanine	UNCHANGED	false	false
+SOD2	16	abacavir	DETERIORATED	false	true
+SLC47A2	5	celecoxib	IMPROVED	false	true
+MC4R	64	lansoprazole	IMPROVED	true	false
+CPS1	57	trimipramine	DETERIORATED	true	false
+MTRR	66	zuclopenthixol	DETERIORATED	true	true
+TANC1	42	norfloxacin	UNCHANGED	false	true
+COMT	53	nilotinib	UNCHANGED	true	true
+PRKCA	69	thioridazine	UNCHANGED	false	true
+HTR2C	55	phenprocoumon	IMPROVED	false	false
+VKORC1	90	aripiprazole	IMPROVED	false	true
+DRD2	84	sevoflurane	DETERIORATED	false	false
+SLC28A3	1	clomipramine	IMPROVED	true	false
+SLCO1B1	8	valproic acid	DETERIORATED	true	false
+CYP2C9	34	pazopanib	UNCHANGED	true	true
+CYP2B6	52	desflurane	IMPROVED	false	false
+NEDD4L	56	tramadol	IMPROVED	true	false
+C11orf65	97	epirubicin	DETERIORATED	false	true
+MTHFR	28	tamoxifen	IMPROVED	true	false
+EPHX1	12	hmg coa reductase inhibitors	DETERIORATED	true	false
+NUDT15	83	dabrafenib	UNCHANGED	true	true
+APOE	6	aspirin	DETERIORATED	false	false
+MTHFR	19	thioridazine	DETERIORATED	false	true
+TYMS	66	venlafaxine	DETERIORATED	true	true
+RYR1	24	metoclopramide	DETERIORATED	true	false
+NAT1	25	venlafaxine	DETERIORATED	true	false
+HLA-A	24	tamsulosin	UNCHANGED	true	false
+SLC28A3	52	lesinurad	IMPROVED	false	true
+NEDD4L	55	morphine	IMPROVED	false	true
+ASS1	8	iloperidone	UNCHANGED	false	false
+NAT1	95	carbamazepine	DETERIORATED	false	false
+GGCX	63	dolutegravir	UNCHANGED	false	false
+TP53	71	succinylcholine	IMPROVED	false	true
+FDPS	90	Selective serotonin reuptake inhibitors	DETERIORATED	false	true
+GSTP1	46	bupropion	DETERIORATED	true	true
+DYNC2H1	91	risperidone	DETERIORATED	true	true
+CYP4F2	37	quinidine	IMPROVED	true	false
+EGF	61	etoposide	DETERIORATED	false	true
+SCN1A	55	sulfisoxazole	UNCHANGED	true	true
+CYB5R3	62	ribavirin	UNCHANGED	true	false
+HAS3	12	trimipramine	UNCHANGED	true	true
+HTR2A	68	velaglucerase alfa	UNCHANGED	false	true
+APOE	96	etoposide	IMPROVED	true	false
+FLOT1	62	galantamine	DETERIORATED	true	false
+CES1	4	pazopanib	DETERIORATED	false	true
+HTR1A	88	triamcinolone	UNCHANGED	false	true
+RYR1	16	modafinil	DETERIORATED	false	true
+PROS1	27	captopril	IMPROVED	true	false
+LDLR	11	halothane	IMPROVED	false	false
+CYP2C19	51	atazanavir	UNCHANGED	true	false
+HLA-B	40	Tumor necrosis factor alpha (TNF-alpha) inhibitors	DETERIORATED	false	false
+RYR1	1	leucovorin	IMPROVED	false	true
+XPC	81	methylene blue	IMPROVED	false	true
+CALU	20	methazolamide	UNCHANGED	false	true
+CYB5R1	35	fesoterodine	DETERIORATED	true	true
+CALU	89	carvedilol	UNCHANGED	true	false
+ERCC1	18	sulfadiazine	UNCHANGED	false	false
+ERCC1	21	radiotherapy	DETERIORATED	false	true
+DRD2	37	trimipramine	UNCHANGED	false	true
+HLA-A	56	ethanol	UNCHANGED	true	true
+HTR2C	62	clopidogrel	UNCHANGED	false	true
+ABCG2	70	naloxone	IMPROVED	true	true
+G6PD	4	donepezil	UNCHANGED	true	true
+APOE	90	etoposide	DETERIORATED	false	false
+PTGS1	94	aspirin	UNCHANGED	false	true
+OPRM1	26	fluticasone propionate	UNCHANGED	false	false
+GP1BA	58	fluorouracil	DETERIORATED	true	false
+GP1BA	41	triamcinolone	IMPROVED	false	false
+SEMA3C	18	mycophenolic acid	DETERIORATED	true	false
+SCN1A	8	tacrolimus	DETERIORATED	false	true
+TXNRD2	94	voriconazole	DETERIORATED	false	true
+HLA-B	93	trimipramine	IMPROVED	false	false
+F5	14	leucovorin	IMPROVED	false	false
+TYMS	12	sirolimus	DETERIORATED	true	false
+HLA-DQA1	75	dabrafenib	DETERIORATED	false	true
+COQ2	18	Selective serotonin reuptake inhibitors	IMPROVED	true	false
+EGF	57	peginterferon alfa-2b	IMPROVED	false	true
+TNF	28	oxazepam	IMPROVED	false	false
+CYP2C9	81	clobazam	UNCHANGED	true	true
+KCNIP4	81	brivaracetam	DETERIORATED	true	false
+CYP2C9	51	diclofenac	DETERIORATED	false	true
+CYP2D6	33	eliglustat	UNCHANGED	true	false
+GBA	30	salbutamol	IMPROVED	true	false
+ACE	88	sulfamethoxazole / trimethoprim	UNCHANGED	false	false
+SLC47A2	15	dextromethorphan	DETERIORATED	true	false
+CYP3A5	76	propafenone	IMPROVED	true	false
+CYP3A4	37	rosiglitazone	IMPROVED	true	false
+FKBP5	79	tamsulosin	DETERIORATED	false	true
+NQO1	58	rituximab	DETERIORATED	false	false
+EPHX1	14	palonosetron	UNCHANGED	true	true
+PROC	10	modafinil	IMPROVED	false	false
+TXNRD2	53	isosorbide dinitrate	IMPROVED	true	false
+ABL2	2	budesonide	UNCHANGED	false	false
+LTC4S	81	Bisphosphonates	IMPROVED	true	false
+GBA	78	mefloquine	DETERIORATED	true	false
+PROC	31	allopurinol	UNCHANGED	true	true
+OTC	95	pazopanib	DETERIORATED	false	false
+HTR1A	79	quinidine	DETERIORATED	true	false
+CYP3A5	48	gemcitabine	DETERIORATED	true	false
+PRKCA	68	quinidine	UNCHANGED	true	false
+TANC1	33	sulfacetamide	DETERIORATED	true	true
+HLA-DQA1	96	perphenazine	UNCHANGED	true	false
+SLC47A2	78	doxepin	UNCHANGED	false	false
+MTHFR	76	mafenide	UNCHANGED	false	false
+IFNL4	50	tropisetron	UNCHANGED	false	true
+SCN1A	14	caffeine	UNCHANGED	true	false
+HLA-B	57	carboplatin	IMPROVED	false	true
+CYP2B6	80	spironolactone	IMPROVED	true	false
+TXNRD2	26	norfloxacin	DETERIORATED	false	false
+HTR2A	85	lamotrigine	UNCHANGED	false	false
+TANC1	6	ciprofloxacin	DETERIORATED	false	true
+XPC	26	moxifloxacin	UNCHANGED	false	false
+VDR	12	epirubicin	UNCHANGED	false	true
+TPMT	46	codeine	UNCHANGED	false	false
+HPRT1	45	dolasetron	DETERIORATED	false	true
+TANC1	15	tiotropium	DETERIORATED	false	true
+CYB5R3	13	carboplatin	IMPROVED	false	true
+C8orf34	33	hydrochlorothiazide	IMPROVED	true	true
+TXNRD2	11	nalidixic acid	DETERIORATED	false	false
+BCHE	32	quinine	UNCHANGED	true	false
+ASL	43	paroxetine	DETERIORATED	false	false
+CYP3A5	90	cetuximab	UNCHANGED	true	false
+CES1	11	lidocaine	UNCHANGED	false	false
+CYP2C19	36	sulfamethoxazole / trimethoprim	IMPROVED	true	false
+PTGS1	46	efavirenz	DETERIORATED	true	false
+ABCB1	13	ivacaftor	IMPROVED	false	true
+TMEM43	3	desflurane	UNCHANGED	false	true
+VKORC1	71	dabrafenib	IMPROVED	false	false
+G6PD	80	chloramphenicol	IMPROVED	false	true
+MC4R	78	methadone	DETERIORATED	false	true
+HMGCR	94	brexpiprazole	UNCHANGED	false	true
+IFNL4	21	tegafur	DETERIORATED	true	false
+TANC1	45	cisplatin	DETERIORATED	false	false
+TXNRD2	96	ondansetron	IMPROVED	false	true
+SLC28A3	69	clomipramine	DETERIORATED	true	true
+ADORA2A	95	propylthiouracil	IMPROVED	true	true
+TYMS	3	cevimeline	UNCHANGED	false	false
+KIF6	5	morphine	DETERIORATED	false	true
+SLCO1B1	59	norfloxacin	IMPROVED	false	false
+CBR3	89	latanoprost	DETERIORATED	false	false
+CYP4F2	51	amitriptyline	UNCHANGED	false	true
+UGT1A1	63	tenofovir	UNCHANGED	true	false
+CFTR	51	pazopanib	IMPROVED	false	true
+TNF	81	clopidogrel	IMPROVED	true	true
+KCNIP4	52	dextromethorphan	DETERIORATED	false	true
+MTRR	64	nicotine	UNCHANGED	false	false
+NEDD4L	33	norfloxacin	IMPROVED	true	true
+CYP2C8	78	Platinum compounds	UNCHANGED	false	false
+LDLR	57	cyclophosphamide	UNCHANGED	false	false
+PROC	8	enflurane	IMPROVED	false	true
+POLG	84	velaglucerase alfa	IMPROVED	false	false
+NAT2	32	etoposide	UNCHANGED	true	true
+FDPS	29	aspirin	DETERIORATED	true	false
+TP53	69	salmeterol	IMPROVED	false	false
+ADORA2A	9	hydrochlorothiazide	UNCHANGED	true	false
+CACNA1S	44	ciprofloxacin	UNCHANGED	true	false
+C11orf65	68	pravastatin	DETERIORATED	false	false
+CALU	39	mesalazine	DETERIORATED	false	false
+ABCC4	95	antidepressants	IMPROVED	false	false
+CYP2D6	24	propafenone	IMPROVED	false	false
+UGT1A1	81	gemcitabine	UNCHANGED	false	true
+PROC	24	darifenacin	DETERIORATED	false	true
+HPRT1	92	oxycodone	DETERIORATED	true	true
+KIF6	37	chlorpropamide	DETERIORATED	false	false
+TYMS	40	tolterodine	DETERIORATED	false	true
+LPA	43	sulfasalazine	UNCHANGED	false	false
+CYP2B6	34	carisoprodol	DETERIORATED	false	false
+SEMA3C	64	nicotine	IMPROVED	false	false
+LPA	72	duloxetine	UNCHANGED	true	true
+HPRT1	82	rosuvastatin	IMPROVED	false	true
+CALU	21	fluticasone/salmeterol	IMPROVED	true	false
+ASS1	97	lidocaine	IMPROVED	true	false
+TYMS	37	aripiprazole	IMPROVED	false	true
+ADRB2	32	norfloxacin	UNCHANGED	false	false
+MTRR	86	platinum	UNCHANGED	false	true
+ANKK1	5	fluorouracil	DETERIORATED	false	false
+CYP2A7P1	63	oxaliplatin	IMPROVED	false	false
+HAS3	17	succinylcholine	IMPROVED	false	true
+TYMS	65	methylphenidate	UNCHANGED	true	false
